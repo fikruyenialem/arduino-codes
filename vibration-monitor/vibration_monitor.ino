@@ -1,4 +1,7 @@
+mpu6050 mpu;
 
+int led = 8;
+int limit = 15000;
 
 
 
