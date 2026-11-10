@@ -4,8 +4,6 @@ int led = 8;
 int limit = 15000;
 
 
-
-
 void setup() {
   serial.begin(9600);
   wire.begin();
